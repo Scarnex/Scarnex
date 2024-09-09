@@ -7,7 +7,8 @@
   - [Full-Stack Website](https://github.com/Scarnex/G5-project)
 
 <h2>📜 Certifications:</h2>
-  
+
+  - [CompTIA Security+](https://www.credly.com/badges/5399c3c9-93aa-42e0-9e98-9f35819a46e4/linked_in_profile)  
   - [Project Management Practicals (PCP)](https://www.linkedin.com/feed/update/urn:li:activity:7220040268572459008/)
   - [Google Cybersecurity Professional](https://www.credly.com/badges/dc8e1dfd-2b94-4782-a0fa-02c262613048/public_url)
   - [Introduction To Cybersecurity By Cisco](https://www.credly.com/badges/6c638b0d-fc97-42f8-83be-833e7c6243e0/public_url)
