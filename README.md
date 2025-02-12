@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yousef <br/>Software Engineering Graduate, Cybersecurity Enthusiast</h1>
+<h1>Hi, I'm Yousef <br/>Software Engineer, Cybersecurity Enthusiast</h1>
 
 <h2>🗂️ My Projects</h2>
 
